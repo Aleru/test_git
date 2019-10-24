@@ -1,3 +1,3 @@
 fn main() {
-    println!("squash_me0");
+    println!("squash_me1");
 }

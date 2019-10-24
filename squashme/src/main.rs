@@ -1,3 +1,3 @@
 fn main() {
-    println!("squash_me1");
+    println!("final version squash the old commits");
 }
